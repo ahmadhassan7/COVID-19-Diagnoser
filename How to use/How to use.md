@@ -3,7 +3,7 @@
 1. Clone repository
 
     ```bash
-    $ git clone git@github.com:ahmadhassan7/COVID-19-Diagnoser.git
+    $ git clone https://github.com/ahmadhassan7/COVID-19-Diagnoser
     ```
 
 2. Run Docker's containers
