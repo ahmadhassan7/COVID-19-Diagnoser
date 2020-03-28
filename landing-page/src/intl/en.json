@@ -1,0 +1,25 @@
+{
+    "NAME_APP": "Fight COVID-19",
+    "USE_APP": "Use app",
+    "PRINCIPLES": "Principles",
+    "TESTIMONIALS": "Testimonials",
+    "BLOG": "Blog",
+    "COLLABORATE": "Collaborate",
+
+    "MAIN_MESSAGE": "Let's win the fight against COVID-19",
+    "MAIN_MESSAGE_DESCRIPTION": "We will use the amazing skills of all the team to create a world high impact surveillance app, supporting the necessities of the world facing the COVID pandemic.",
+    "MAIN_MESSAGE_NOTE": "Also available web version, android and iOS",
+    "PRINCIPLE_1_TITLE": "Detect alarm signs",
+    "PRINCIPLE_1_DESCRIPTION": "An enim nullam tempor gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor integer.",
+    "PRINCIPLE_2_TITLE": "Suggesting",
+    "PRINCIPLE_2_DESCRIPTION": "To relief the load of the healthcare system by redirecting the low risk patients to sites with reliable information about health care and redirect the high-risk patients to the closest medical facility.",
+    "PRINCIPLE_3_TITLE": "Reporting",
+    "PRINCIPLE_3_DESCRIPTION": "To serve as generators of real-time information.",
+    "PRINCIPLE_4_TITLE": "Linking",
+    "PRINCIPLE_4_DESCRIPTION": "To keep close links with healthcare authorities and generate useful epidemiological information.",
+    "ABOUT_US": "About us",
+    "ABOUT_US_DESCRIPTION": "Fight COVID-19 is a non-profit, collaborative community democratizing AI to assist in the detection and triage of COVID-19 cases",
+    "HOW_CONTRIBUTE": "How to contribute",
+    "READ_MORE": "Read more in ",
+    "READY": "Ready ?"
+}

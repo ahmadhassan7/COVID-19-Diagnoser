@@ -1,6 +1,4 @@
-# Fight COVID-19 Landing Page
 
-This is built with [Gatsby](https://www.gatsbyjs.org/)
 
 ## Node and package manager
 
@@ -12,8 +10,7 @@ This is built with [Gatsby](https://www.gatsbyjs.org/)
 ### Clone the repo
 
 ```
-ssh: git clone git@github.com:elcronos/COVID-19.git
-https: git clone https://github.com/elcronos/COVID-19.git
+https: git clone https://github.com/ahmadhassan7/COVID-19-Diagnoser
 ```
 
 ### Install dependencies
@@ -43,7 +40,7 @@ npm run build
 ### Run the production server
 
 ```
-nom run serve
+npm run serve
 ```
 
 ## Key libraries

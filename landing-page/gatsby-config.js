@@ -31,11 +31,30 @@ module.exports = {
         {
             resolve: `gatsby-source-filesystem`,
             options: {
-              name: `markdown-pages`,
-              path: `${__dirname}/src/content`,
+                name: `markdown-pages`,
+                path: `${__dirname}/src/content`,
+            },
+        },
+        // Landing starter
+        {
+            resolve: `gatsby-theme-codebushi`,
+            options: {
+                tailwindConfig: `tailwind.config.js`,
+            },
+        },
+        // I18n
+        {
+            resolve: `gatsby-plugin-intl`,
+            options: {
+                path: `${__dirname}/src/intl`,
+                languages: [`en`, `es`],
+                defaultLanguage: `en`,
+                // option to redirect to `/ko` when connecting `/`
+                redirect: true,
             },
         },
         `gatsby-transformer-remark`,
+
         // this (optional) plugin enables Progressive Web App + Offline functionality
         // To learn more, visit: https://gatsby.dev/offline
         // `gatsby-plugin-offline`,

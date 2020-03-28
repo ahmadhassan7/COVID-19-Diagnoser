@@ -1,0 +1,25 @@
+{
+    "NAME_APP": "Fight COVID-19",
+    "USE_APP": "Usar aplicación",
+    "PRINCIPLES": "Principios",
+    "TESTIMONIALS": "Testimonios",
+    "BLOG": "Blog",
+    "COLLABORATE": "Colaborar",
+    
+    "MAIN_MESSAGE": "Ganemos la lucha contra COVID-19",
+    "MAIN_MESSAGE_DESCRIPTION": "Utilizaremos las increíbles habilidades de todo el equipo para crear una aplicación de vigilancia mundial de alto impacto, que cubra las necesidades del mundo que enfrenta la pandemia de COVID",
+    "MAIN_MESSAGE_NOTE": "También disponible versión web, Android e iOS",
+    "PRINCIPLE_1_TITLE": "Detectar signos de alarma",
+    "PRINCIPLE_1_DESCRIPTION": "Un enim nullam tempor gravida donec enim ipsum blandit porta justo integer odio velna vitae auctor integer",
+    "PRINCIPLE_2_TITLE": "Sugerir",
+    "PRINCIPLE_2_DESCRIPTION": "Para aliviar la carga del sistema de atención médica al redirigir a los pacientes de bajo riesgo a sitios con información confiable sobre la atención médica y redirigir a los pacientes de alto riesgo al centro médico más cercano",
+    "PRINCIPLE_3_TITLE": "Informes",
+    "PRINCIPLE_3_DESCRIPTION": "Para servir como generadores de información en tiempo real",
+    "PRINCIPLE_4_TITLE": "Vinculación",
+    "PRINCIPLE_4_DESCRIPTION": "Para mantener vínculos estrechos con las autoridades sanitarias y generar información epidemiológica útil",
+    "ABOUT_US": "Acerca de nosotros",
+    "ABOUT_US_DESCRIPTION": "Fight COVID-19 es una comunidad sin fines de lucro y colaborativa que democratiza la IA para ayudar en la detección y clasificación de casos de COVID-19",
+    "HOW_CONTRIBUTE": "Cómo contribuir",
+    "READ_MORE": "Leer más en",
+    "READY": "listo ?"
+}
