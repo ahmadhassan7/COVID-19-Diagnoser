@@ -1,3 +1,9 @@
+
+
+## Web app 
+
+Is a web app project make in react to follow the principles exposed before.
+
 ## Includes
 - React Router
 - Enzyme + Jest
@@ -20,3 +26,6 @@ Launches the test runner in the interactive watch mode.
 ### `npm run build`
 
 Builds the app for production to the `build` folder.
+
+
+
